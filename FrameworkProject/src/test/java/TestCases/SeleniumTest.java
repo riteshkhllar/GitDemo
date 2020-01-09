@@ -13,4 +13,8 @@ public class SeleniumTest {
 	public void iosApps() {
 		System.out.println("IOS apps");
 	}
+	@Test
+	public void iosAppsTest() {
+		System.out.println("IOS apps");
+	}
 }
